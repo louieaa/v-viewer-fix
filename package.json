@@ -1,6 +1,6 @@
 {
-  "name": "v-viewer",
-  "version": "1.4.1",
+  "name": "v-viewer-fix",
+  "version": "0.0.1",
   "description": "Image viewer component for vue, supports rotation, scale, zoom and so on, based on viewer.js",
   "main": "dist/v-viewer.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mirari/v-viewer.git"
+    "url": "git+https://github.com/louieaa/v-viewer-fix"
   },
   "keywords": [
     "vue",
@@ -22,12 +22,12 @@
     "img",
     "image"
   ],
-  "author": "mirari",
+  "author": "louiebb <louiebb1994@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mirari/v-viewer/issues"
+    "url": "https://github.com/louieaa/v-viewer-fix/issues"
   },
-  "homepage": "https://github.com/mirari/v-viewer#readme",
+  "homepage": "https://github.com/louieaa/v-viewer-fix#readme",
   "engines": {
     "node": ">=4",
     "npm": ">=3"
