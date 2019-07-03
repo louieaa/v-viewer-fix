@@ -5,5 +5,5 @@ Viewerjs in 1.3.5  the escapeHTMLEntities Function regular Will bring repalce & 
 
 Relevant  issue :
 
-https://github.com/fengyuanchen/viewerjs/issues/298
+https://github.com/fengyuanchen/viewerjs/issues/298<br/>
 https://github.com/fengyuanchen/viewerjs/issues/301
